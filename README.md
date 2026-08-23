@@ -1,6 +1,6 @@
 ### Soham Sinha
 
-product @ Booking Holdings. ex-Indeed.
+product @ Booking Holdings. ex-Indeed. ex-founder, [Rooter](https://rooter.gg).
 
 love building and solving hard problems at scale.
 

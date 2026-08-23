@@ -4,4 +4,4 @@ product @ Booking Holdings. ex-Indeed.
 
 love building and solving hard problems at scale.
 
-[builderr.ai](https://builderr.ai) · [ramblefix.app](https://ramblefix.app)
+[builderr.ai](https://builderr.ai) · [ramblefix.app](https://ramblefix.app) · [linkedin](https://www.linkedin.com/in/soham-sinha-a8958720/)
